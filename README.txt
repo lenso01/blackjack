@@ -1,6 +1,7 @@
-This is my first app. It was very challenging project for me. It took about 5 days to finish this app. I didn't look at someone elses codes to get idea. I wanted to be as creative as possible without looking at other codes.
-I learned a lot off new things. One of the biggest issue how to handle Ace. Also Converting Strings to value and calculating required a lot of work around. 
-I believe a lot of things could be done shorter way in codes. I’m sure i will find these shortcuts  to spend less time on coding and having elegant code. It was very exciting for me and I’m very happy.
+This is my first app. It was a very challenging project for me. It took about 5 days to finish this up. I didn't look at someone else codes to get an idea. I wanted to be as creative as possible without looking at other codes.
+I learned a lot of new things. One of the biggest issue how to handle Ace. Also Converting Strings to value and calculating them required a lot of work around. 
+I believe a lot of things could be done shorter way in my codes. I’m sure I will find these shortcuts to spend less time on coding and having an elegant code. It was very exciting for me and I’m very happy.
+
 This app is my “Hello World”
 
    Features
